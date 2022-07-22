@@ -4,7 +4,7 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/) 
 -->
 
-- 🔭 I’m currently studying in CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences
+- 🔭 I’m currently a postgraduate student in [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.cas.cn/)
 - 🌱 I’m currently learning Natural Language Processsing
 - 📫 How to reach me: [zhaozhao809@163.com](mailto:zhaozhao809@163.com)
 
