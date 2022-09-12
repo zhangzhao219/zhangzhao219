@@ -33,7 +33,7 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangzhao219&line_height=27&count_private=true&show_icons=true&theme=vue" />
 </a>
 <a href="https://github.com/zhangzhao219">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhao219&count_private=true&hide=JupyterNotebook,html,tex&theme=vue&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhao219&count_private=true&hide=Jupyter%20Notebook,html,tex&theme=vue&langs_count=3" />
 </a>
 
 
