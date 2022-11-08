@@ -24,7 +24,8 @@ A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Mathematics for Machine Learning: Linear Algebra](https://zhangzhao219.github.io/2022/07/12/Mathematics-for-Machine-Learning-Linear-Algebra/)
-- [Trip To Qingdao](https://zhangzhao219.github.io/2022/07/11/trip-to-qingdao/)
+- [Numpy中axis的理解](https://zhangzhao219.github.io/2022/08/06/ndarray-axis/)
+- [KMP算法详解](https://zhangzhao219.github.io/2022/10/19/KMP/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
