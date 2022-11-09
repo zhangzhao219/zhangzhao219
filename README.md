@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/zhangzhao219/count.svg)
-
 ## 👋 Hi Everyone!
 
 <!-- 
@@ -39,6 +37,10 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhao219&count_private=true&hide=Jupyter%20Notebook,html,tex&theme=vue&langs_count=3" />
 </a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zhangzhao219/count.svg" />
+</p>
 
 <!-- 
 Here are some ideas to get you started:
