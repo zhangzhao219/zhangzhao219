@@ -37,8 +37,9 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhao219&count_private=true&hide=Jupyter%20Notebook,html,tex&theme=vue&langs_count=3" />
 </a>
 
+## &#x1F4E1; Visitor Count
+
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/zhangzhao219/count.svg" />
 </p>
 
