@@ -37,6 +37,10 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhao219&count_private=true&hide=Jupyter%20Notebook,html,tex&theme=vue&langs_count=3" />
 </a>
 
+## &#x1F40D; My GitHub Contributions
+
+![](https://raw.githubusercontent.com/zhangzhao219/zhangzhao219/main/assets/github-contribution-grid-snake.svg)
+
 ## &#x1F4E1; Visitor Count
 
 <p align="center"> 
