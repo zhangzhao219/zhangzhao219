@@ -23,6 +23,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT-6.824 Distributed Systems-LEC 1](https://zhangzhao219.github.io/2022/12/13/Distributed-Systems-MIT-6.824-LEC-1/)
 - [Mathematics for Machine Learning: Linear Algebra](https://zhangzhao219.github.io/2022/07/12/Mathematics-for-Machine-Learning-Linear-Algebra/)
 - [Numpy中axis的理解](https://zhangzhao219.github.io/2022/08/06/ndarray-axis/)
 - [KMP算法详解](https://zhangzhao219.github.io/2022/10/19/KMP/)
